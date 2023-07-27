@@ -1,0 +1,8 @@
+C:\dialytask\Assisted Practice\quicksort\bin\Debug\quicksort.exe.config
+C:\dialytask\Assisted Practice\quicksort\bin\Debug\quicksort.exe
+C:\dialytask\Assisted Practice\quicksort\bin\Debug\quicksort.pdb
+C:\dialytask\Assisted Practice\quicksort\obj\Debug\quicksort.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\quicksort\obj\Debug\quicksort.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\quicksort\obj\Debug\quicksort.csproj.CoreCompileInputs.cache
+C:\dialytask\Assisted Practice\quicksort\obj\Debug\quicksort.exe
+C:\dialytask\Assisted Practice\quicksort\obj\Debug\quicksort.pdb
